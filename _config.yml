@@ -28,31 +28,31 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
+  facebook: aj.bolt.3
+  hackerrank: adrian_jc_bolt
+  instagram: bolt_aj
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: adrian-bolt-488b8340
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
+  stackoverflow: 3741089
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
-  # vk: your_username
+  vk: ajbolt
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: channel/UCi69OT9wiX9ddD6UGNBQZSg
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Rust
+    web_url: https://www.rust-lang.org
+    image_url: https://rustacean.net/assets/rustacean-orig-noshadow.png
 
-  - name: Web design
+  - name: Machine Learning
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: SQL
+    web_url: https://github.com/topics/sql
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
