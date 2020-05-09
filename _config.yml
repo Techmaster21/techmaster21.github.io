@@ -52,6 +52,9 @@ topics:
     image_url: https://rustacean.net/assets/rustacean-orig-noshadow.png
 
   - name: Machine Learning
+    web_url: https://github.com/topics/machine-learning
+    image_url: https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png
+ 
 
   - name: Quantum Computing
     web_url: https://github.com/topics/quantum-computing
