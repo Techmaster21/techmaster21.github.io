@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -53,6 +53,6 @@ topics:
 
   - name: Machine Learning
 
-  - name: SQL
-    web_url: https://github.com/topics/sql
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
+  - name: Haskell
+    web_url: https://github.com/topics/haskell
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png
