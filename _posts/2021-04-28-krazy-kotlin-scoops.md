@@ -1,6 +1,6 @@
 ---
-title: Krazy Kotlin Scoops
-published:true
+title: "Krazy Kotlin Scoops 4-28-21"
+published: true
 ---
 
 Welcome back to Krazy Kotlin Scoops. Today we're going to talk about Kotlin's type safe builders.
