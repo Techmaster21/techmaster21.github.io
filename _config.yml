@@ -31,9 +31,9 @@ projects:
 social_media:
   # behance: your_username
   # dribbble: your_username
-  facebook: aj.bolt.3
-  hackerrank: adrian_jc_bolt
-  instagram: bolt_aj
+  # facebook: aj.bolt.3
+  # hackerrank: adrian_jc_bolt
+  # instagram: bolt_aj
   # keybase: your_username
   linkedin: adrian-bolt-488b8340
   # mastodon: your_username
@@ -42,9 +42,9 @@ social_media:
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
-  vk: ajbolt
+  # vk: ajbolt
   # website: http://your_website_url
-  youtube: channel/UCi69OT9wiX9ddD6UGNBQZSg
+  # youtube: channel/UCi69OT9wiX9ddD6UGNBQZSg
 
 topics:
   - name: Rust
