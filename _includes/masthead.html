@@ -50,5 +50,10 @@
     {% if user.hireable %}
       <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Available for hire</span>
     {% endif %}
+    {% assign myresume = site.static_files | where: "name", site.resume | first %}
+    {% if myresume %}
+      <a  href="{{ myresume.path }}" title="Resume" class="d-inline-block f3 rounded-2 text-white bg-purple py-1 px-2">Résumé</a>
+    {% endif %}
+
   </div>
 {% endif %}

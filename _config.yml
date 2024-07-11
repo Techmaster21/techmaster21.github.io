@@ -8,6 +8,8 @@ plugins:
 
 permalink: /:year/:month/:day/:title/
 
+resume: resume.pdf
+
 defaults:
   -
     scope:
@@ -26,6 +28,7 @@ projects:
     archived: false
     forks: true
     projects:
+      -  mit6006python3
     # - repo-name
 
 social_media:
@@ -58,3 +61,11 @@ topics:
   - name: Haskell
     web_url: https://github.com/topics/haskell
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png
+
+  # - name: Early Modern Literature
+  #   web_url: https://www.folger.edu/explore/shakespeares-works/hamlet/read/
+  #   image_url: 
+  
+  # - name: Old English
+  #   web_url: https://www.poetryfoundation.org/poems/43521/beowulf-old-english-version
+  #   image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sutton_Hoo_helmet_2016.png/418px-Sutton_Hoo_helmet_2016.png
